@@ -36,6 +36,9 @@ dependencies:
   flutter_full_pdf_viewer: ^1.0.6
   path_provider: ^1.5.1
   flutter_phone_state: ^0.5.9
+  toast: ^0.1.5
+  http: ^0.12.1
+  provider: ^4.3.2+2
 
 
 dev_dependencies:
