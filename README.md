@@ -1,4 +1,4 @@
-# navigation_demo
+# Flutter Demo
 
 A new Flutter application.
 
