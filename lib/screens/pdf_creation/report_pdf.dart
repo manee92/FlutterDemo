@@ -1,4 +1,4 @@
-import 'package:flutterdemo/screens/pdf_creation/pdf_viewer_page.dart';
+import 'package:flutterexamples/screens/pdf_creation/pdf_viewer_page.dart';
 import 'package:pdf/pdf.dart';
 import 'dart:io';
 import 'package:pdf/widgets.dart';
