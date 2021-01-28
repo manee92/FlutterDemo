@@ -36,10 +36,15 @@ dependencies:
   flutter_full_pdf_viewer: ^1.0.6
   path_provider: ^1.5.1
   flutter_phone_state: ^0.5.9
+  contacts_service: ^0.4.6
   toast: ^0.1.5
   http: ^0.12.1
   provider: ^4.3.2+2
   url_launcher: ^5.7.10
+  qr_flutter: ^3.2.0
+  qr_code_scanner: ^0.0.13
+  permission_handler: ^5.0.1+1
+  video_player: ^1.0.1
 
 
 dev_dependencies:
