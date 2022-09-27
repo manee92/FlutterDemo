@@ -80,8 +80,8 @@ reportView(context) async {
   final String path = '$dir/report.pdf';
   final File file = File(path);
   await file.writeAsBytes(pdf.save());
-  material.Navigator.of(context).push(
-    material.MaterialPageRoute(
+  Navigator.of(context).push(
+    MaterialPageRoute(
       builder: (_) => PdfViewerPage(path: path),
     ),
   );
